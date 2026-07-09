@@ -22,7 +22,7 @@ Hi, I'm \*\*Ihtisham ul Haq\*\*. I am a passionate IT student and a MERN Stack W
 
 \## 🛠️ Tech Stack \& Skills
 
-This project is built using \*\*Pure HTML\*\* without any external CSS frameworks to focus strictly on semantic structure. 
+This project is built using \*\*Pure HTML\*\* without any external CSS frameworks to focus strictly on semantic structure.
 
 
 
@@ -88,9 +88,9 @@ My overall core technical skills include:
 
 \* \*\*Location:\*\* Sanghar, Sindh, Pakistan
 
-\* \*\*Email:\*\* ihtishamulhaq@example.com \*(Update with your actual email)\*
+\* \*\*Email:\*\* ihtshamkhoso@gmail.com \*(Update with your actual email)\*
 
-\* \*\*GitHub:\*\* \[github.com/your-username](https://github.com/)
+\* \*\*GitHub:\*\* \[github.com/https://github.com/ihtishamkhoso](https://github.com/)
 
 
 
